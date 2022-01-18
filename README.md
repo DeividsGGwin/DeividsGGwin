@@ -1,3 +1,3 @@
 # Pirmais līmenis
-# Otrais Līmenis
-# Trešais Līmenis
+## Otrais Līmenis
+###### Trešais Līmenis
